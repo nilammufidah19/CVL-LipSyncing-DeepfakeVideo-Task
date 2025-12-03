@@ -20,13 +20,15 @@ pip install -r requirements.txt
 
 📄 Reference Paper: [paper](https://arxiv.org/abs/2504.01470)
 
-📄 Reference Code: [github](https://github.com/skrantidatta/LIPINC-V2)
+💻 Reference Code: [github](https://github.com/skrantidatta/LIPINC-V2)
 
 📊 Dataset:
 1. [Kaggle - FaceForensics](https://www.kaggle.com/datasets/xdxd003/ff-c23),
 2. [Kaggle - DFD](https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset?select=DFD_original+sequences),
 3. [Kaggle - DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge),
 4. [Kaggle - CelebDF](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
+
+🎬 Presentation Video: [youtube](https://youtu.be/4aHN4INmo2c)
 
 
 ## Method
