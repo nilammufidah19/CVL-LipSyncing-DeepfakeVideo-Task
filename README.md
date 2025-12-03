@@ -1,9 +1,7 @@
 # Deteksi Deepfake Video Berbasis VTT Vision Temporal Transformer
 
 ## 🔎 Deskripsi  
-This project aims to build a **lip-syncing deepfake video detection system**, focusing on synchronizing lip movements in a video with a new audio stream. Given a face video and an audio input, the system generates an output video where mouth movements follow the audio, enabling dubbing, voice-over generation, or audio modification without re-recording the original video.
-
-This project is inspired by state-of-the-art approaches such as Wav2Lip (popular for lip-syncing video in-the-wild). 
+This project aims to build a **deepfake video detection system** using Vision Temporal Transformer (VTT) to simultaneously modeling spatial and temporal relationship of every sequential frame. We also experimented with various training dataset as well as variation of pre-processing steps to achive the best performing model.
 
 ## Install Dependencies
 clone repository
