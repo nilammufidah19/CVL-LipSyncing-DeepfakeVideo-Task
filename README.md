@@ -27,6 +27,7 @@ pip install -r requirements.txt
 2. [Kaggle - DFD](https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset?select=DFD_original+sequences),
 3. [Kaggle - DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge),
 4. [Kaggle - CelebDF](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
+5. [Data - Inference]([https://www.kaggle.com/datasets/reubensuju/celeb-df-v2](https://drive.google.com/drive/folders/171EcxZ3ESN63CFhzcz3vbMvzRwBjT8Re?usp=sharing))
 
 🎬 Presentation Video: [youtube](https://youtu.be/4aHN4INmo2c)
 
