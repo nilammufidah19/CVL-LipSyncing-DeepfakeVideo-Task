@@ -43,12 +43,12 @@ Model Architecture (LIPNIC):
 
 ## Dataset Configuration
 | **Dataset Configuration** | **Total Datasets** | **MediaPipe Used** |
-|-------------------------------|---------------------|---------------------------|
-| **V1** CelebDF V2            | 1                   | Tidak                    |
-| **V2** FaceForensics++       | 1                   | Tidak                    |
-| **V3** CelebDF, FF++         | 2                   | Tidak                    |
-| **V4** FF++, DFD, DFDC       | 3                   | Tidak                    |
-| **V5** FaceForensics++       | 1                   | Ya                       |
+|-------------------------------|---------------------|----------------------|
+| **V1** CelebDF V2            | 1                   | No                    |
+| **V2** FaceForensics++       | 1                   | No                    |
+| **V3** CelebDF, FF++         | 2                   | No                    |
+| **V4** FF++, DFD, DFDC       | 3                   | No                    |
+| **V5** FaceForensics++       | 1                   | Yes                   |
 
 ## Result Eksperimen
 | **Method** | **V1** | **V2** | **V3** | **V4** | **V5** |
