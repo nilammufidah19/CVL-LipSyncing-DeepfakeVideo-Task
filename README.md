@@ -29,7 +29,7 @@ pip install -r requirements.txt
 4. [Kaggle - CelebDF](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
 5. [Data - Inference](https://drive.google.com/drive/folders/171EcxZ3ESN63CFhzcz3vbMvzRwBjT8Re?usp=sharing)
 
-🎬 Presentation Video: [youtube](https://youtu.be/4aHN4INmo2c)
+🎬 Presentation Video: [youtube](https://youtu.be/lMRpDzIjYuY)
 
 
 ## Method
