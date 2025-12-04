@@ -80,7 +80,7 @@ Example detection result:
 ## Demo
 Try the experiment results online:
 
-👉 Streamlit App: [streamlite](lipsyncdeepfake-detection.streamlit.app/)
+👉 Streamlit App: [streamlit](https://lipsyncdeepfake-detection.streamlit.app/)
 
 Or run locally:
 ```bash
