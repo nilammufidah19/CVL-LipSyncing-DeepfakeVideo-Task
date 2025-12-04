@@ -1,4 +1,4 @@
-# Deteksi Deepfake Video Berbasis VTT Vision Temporal Transformer
+# Deteksi Deepfake Video Berbasis VTT (Vision Temporal Transformer)
 
 ## 🔎 Deskripsi  
 This project aims to build a **deepfake video detection system** using Vision Temporal Transformer (VTT) to simultaneously modeling spatial and temporal relationship of every sequential frame. We also experimented with various training dataset as well as variation of pre-processing steps to achive the best performing model.
